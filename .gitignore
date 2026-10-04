@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+venv/
+tq_venv/
+work/
+models/
+flores200_dataset/
+*.safetensors
+*.bin
+*.ftz
