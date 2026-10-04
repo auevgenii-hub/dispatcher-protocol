@@ -1,0 +1,7 @@
+# Dispatcher and plugins
+flask>=3.0
+torch>=2.2
+transformers>=4.57
+sentencepiece
+fasttext-wheel
+pytest

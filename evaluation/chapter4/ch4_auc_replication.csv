@@ -1,0 +1,15 @@
+language,candidate,auc,n,n_bad
+hin,logprob,0.698,997,250
+hin,cometkiwi,0.6288,997,250
+hin,len,0.4627,997,250
+npi,logprob,0.7218,997,250
+npi,cometkiwi,0.6575,997,250
+npi,len,0.4144,997,250
+npi,labse,0.6486,997,250
+tgl,logprob,0.6526,997,250
+tgl,cometkiwi,0.6616,997,250
+tgl,len,0.4055,997,250
+tgl,labse,0.6748,997,250
+ige,logprob,0.7945,1473,369
+ige,cometkiwi,0.4609,1473,369
+ige,len,0.3891,1473,369

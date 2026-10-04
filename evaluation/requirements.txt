@@ -1,0 +1,11 @@
+# Evaluation scripts (in addition to ../requirements.txt)
+pandas
+numpy
+scipy
+scikit-learn
+matplotlib
+sacrebleu>=2.4
+unbabel-comet>=2.2
+sentence-transformers
+# TransQuest needs a separate environment with transformers==4.30.2:
+#   python -m venv tq_venv && tq_venv/bin/pip install transquest transformers==4.30.2

@@ -1,0 +1,3 @@
+language,trigger_metric,n_total,n_triggered,share_triggered,threshold_value
+npi,logprob,997,250,0.2508,-0.639695
+tgl,logprob,997,250,0.2508,-0.402813

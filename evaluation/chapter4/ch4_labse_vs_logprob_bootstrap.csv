@@ -1,0 +1,3 @@
+language,pair,point,ci_lo,ci_hi,share_labse_wins
+npi,labse-logprob,-0.0732,-0.1156,-0.0309,0.001
+tgl,labse-logprob,0.0223,-0.0235,0.0676,0.832
